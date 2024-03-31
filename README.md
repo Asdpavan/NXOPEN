@@ -1,0 +1,2 @@
+# NXOPEN
+Testing NX Open
